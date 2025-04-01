@@ -35,4 +35,4 @@
 [![Follow](https://img.shields.io/badge/Follow-543%20subs-blue?style=flat&logo=rss&logoColor=ffffff&label=Follow&labelColor=FF5C00&color=282c34&cacheSeconds=3600&link=https%3A%2F%2Fapp.follow.is%2Fshare%2Ffeeds%2F41461870197170189)](https://app.follow.is/share/feeds/41461870197170189)
 
 
-![](https://img.tjsky.net/2024/12/8b9ddc6a727e6ef520dfa6d41f39742b.webp)
+
