@@ -1,6 +1,6 @@
 ### Hi I`m 波奇大帝 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=DIYgod&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zhaodaidai&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 一只纯业余的编程爱好者，略懂略懂 *Amateur programming enthusiast*
 
