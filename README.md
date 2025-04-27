@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [谷歌这是在干啥？强制给我开个广告拦截收入挽回？](https://www.tjsky.net/natter/1138?pk_campaign=feed&pk_kwd=%25e8%25b0%25b7%25e6%25ad%258c%25e8%25bf%2599%25e6%2598%25af%25e5%259c%25a8%25e5%25b9%25b2%25e5%2595%25a5%25ef%25bc%259f%25e5%25bc%25ba%25e5%2588%25b6%25e7%25bb%2599%25e6%2588%2591%25e5%25bc%2580%25e4%25b8%25aa%25e5%25b9%25bf%25e5%2591%258a%25e6%258b%25a6%25e6%2588%25aa%25e6%2594%25b6%25e5%2585%25a5%25e6%258c%25bd%25e5%259b%259e)
-- [如何快速批量检索损坏的图片文件—python开发学习笔记（一）](https://www.tjsky.net/tutorial/1136?pk_campaign=feed&pk_kwd=https-www-tjsky-net-p1136)
-- [DeepSeek R1 可免费/白嫖网页版一览](https://www.tjsky.net/ai/1130?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-1130)
-- [本地 AI 图片视频搜索引擎——MaterialSearch](https://www.tjsky.net/best-software/1121?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1121)
-- [【资讯】AutoCAD 2022 在 Windows 11 24H2 上出现频繁崩溃 请不要升级你的系统或CAD](https://www.tjsky.net/news/1117?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1117)
+- [KVM显卡直通教程](https://blog.aicdn.eu.org/p/kvm%E6%98%BE%E5%8D%A1%E7%9B%B4%E9%80%9A/)
+- [syncplay服务端搭建](https://blog.aicdn.eu.org/p/syncplay%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%90%AD%E5%BB%BA/)
+- [YOLO模型训练通用教程](https://blog.aicdn.eu.org/p/yolo%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/)
+- [音乐馆](https://blog.aicdn.eu.org/music/?id=13533637821&server=netease)
+- [小空调](https://blog.aicdn.eu.org/air-conditioner/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
