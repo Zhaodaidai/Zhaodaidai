@@ -23,7 +23,7 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [KVM显卡直通教程](https://blog.aicdn.eu.org/p/kvm%E6%98%BE%E5%8D%A1%E7%9B%B4%E9%80%9A/)
+- [自建rustdesk](https://blog.aicdn.eu.org/p/%E8%87%AA%E5%BB%BArustdesk/)
 - [syncplay服务端搭建](https://blog.aicdn.eu.org/p/syncplay%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%90%AD%E5%BB%BA/)
 - [YOLO模型训练通用教程](https://blog.aicdn.eu.org/p/yolo%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/)
 - [音乐馆](https://blog.aicdn.eu.org/music/?id=13533637821&server=netease)
